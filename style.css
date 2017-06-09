@@ -1,0 +1,141 @@
+/**
+* HW-Wireframe Stylesheet
+**/
+
+body {
+	margin-right: auto;
+	position: relative;
+	background-color: #777;
+}
+
+div.header {
+	width: 960px;
+	height: 100px;
+	border: 3px solid lightgrey;
+    position: static; 
+	margin: auto;
+	padding-top: 60px;
+	padding-bottom: -40px;
+	background-color: lightgrey;
+	text-align: center;	
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #777;
+}
+
+div.nav {  
+	width: 960px;
+	height: 100px;
+	border: 3px solid lightgrey;
+	position: static;
+	margin: 15px 150px 15px;
+	padding-top: 60px;
+	padding-bottom: -40px;
+	background-color: lightgrey;
+	text-align: center;	
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #777;
+
+}
+
+div.section {  
+	width: 525px;
+	height: 300px;
+	border: 3px solid lightgrey;
+	position: relative;
+	margin: 15px 5px 15px 150px;
+	padding-top: 20px;
+	padding-bottom: -10px;
+	background-color: lightgrey;
+	text-align: center;	
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #777;
+}	
+
+div.article {
+	position: absolute;
+	width: 505px;
+	height: 170px;
+	border: 3px #777;
+	background-color: #777;
+	margin: 20px 10px -10px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	text-align: center;	
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	font-size: 18px;
+	color: lightgrey;
+	float: all;
+
+}
+
+div.heading {
+	position: absolute;
+	width: 480px;
+	height: 1px;
+	border: 3px solid lightgrey;
+	background-color: lightgrey;
+	margin: 20px 10px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	text-align: center;	
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #777;
+
+}
+
+div.p {
+	position: absolute;
+	width: 480px;
+	height: 2px;
+	border: 3px solid lightgrey;
+	background-color: lightgrey;
+	margin: 45px -3px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	text-align: center;	
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #777;
+}
+
+div.aside {
+	width: 410px;
+	height: 300px;
+	border: 3px solid lightgrey;
+	position: static;
+	margin: -340px 700px 15px;
+	padding-top: 20px;
+	padding-bottom: -10px;
+	background-color: lightgrey;
+	text-align: center;	
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #777;
+}
+
+div.footer {
+	width: 960px;
+	height: 80px;
+	border: 3px solid lightgrey;
+	position: static;
+	margin: 15px -90px 0px 150px;
+	padding-top: 60px;
+	padding-bottom: -40px;
+	background-color: lightgrey;
+	text-align: center;	
+	font-family: Arial, Helvetica, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #777;
+}
+
+
+
+
+
+
+
+
